@@ -1,0 +1,1 @@
+g++ -o igd igd.cpp -std=c++17 -fopenmp
